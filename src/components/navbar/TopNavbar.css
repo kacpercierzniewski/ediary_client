@@ -1,0 +1,15 @@
+.navbar {
+	background: green;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 1em;
+}
+.navbar-header {
+	font-family: 'Sacramento';
+	font-size: 1.5em;
+}
+.navbar-header-mobile {
+	font-family: 'Sacramento';
+}
+.TopNavbar {
+	margin-bottom: 4em;
+}
