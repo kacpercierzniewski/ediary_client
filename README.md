@@ -17,6 +17,6 @@ npm start
 
 In main directory. This will run client modules.
 
-#Live example
+# Live example
 
 <a href='https://peleek.github.io/ediary_client/'> Click here </a> for live example!
